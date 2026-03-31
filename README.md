@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haris Qazi</h1>
+<h1 align="center">Hi 👋, I'm Haris Mahmood Qazi</h1>
 <h3 align="center">DevOps & Cloud Enthusiast 🚀</h3>
 
 # 💫 About Me:
